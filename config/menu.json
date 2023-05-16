@@ -1,0 +1,65 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    }, 
+
+   
+    {
+      "name": "Products",
+      "url": "/products"
+    },
+    {
+      "name": "About us",
+      "url": "/about-us"
+    },
+
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "FAQ",
+      "url": "/faq"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+        {
+          "text": "About us",
+          "url": "/about-us"
+        }
+       
+      ]
+    },
+    {
+      "name": "Products",
+      "menu": [
+        {
+          "text": "Products",
+          "url": "/products"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        {
+          "text": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "text": "Terms & Conditions",
+          "url": "/terms-and-conditions"
+        }
+      ]
+    }
+  ]
+}

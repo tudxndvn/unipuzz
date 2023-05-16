@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "Unipuzz Studio | Classic and puzzle games",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "Unipuzz Studio"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Unipuzz Studio is world’s #1 Puzzle Game Publisher with 1.0 Million plus downloads. Be our comrade to build the best interactive puzzle ecosystem!",
+    "copyright": "© 2021 Unipuzz Studio. All Rights Reserved."
+  },
+
+  "metadata": {
+    "meta_author": "Unipuzz Studio",
+    "meta_image": "",
+    "meta_description": "Unipuzz Studio | Classic and puzzle games"
+  }
+}
