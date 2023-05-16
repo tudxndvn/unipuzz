@@ -55,8 +55,8 @@ product:
     icon: "/images/p1.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
     url: "https://play.google.com/store/apps/details?id=com.jewelslidepuzzle.blockslidergame"
-  - name: "Merge Number Cube: Fam Run"
-    icon: "/images/p1.png"
+  - name: "Monster Makeover - Mix Anything"
+    icon: "/images/icon_monster.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
     url: "https://play.google.com/store/apps/details?id=com.xd.craft.ender.monster"
 
